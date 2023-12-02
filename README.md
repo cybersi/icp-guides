@@ -4,11 +4,10 @@ Welcome to ICP GUIDES. Here, you will find a collection of guides and resources 
 
 ## Table of Contents
 
-- [IC SDK Installation](#Installation)
+- [Introduction](#Introduction)
 - [Getting Started](#getting-started)
 - [Guides](#guides)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -41,15 +40,9 @@ Here is a list of guides available for our project:
 3. **Guide 3**: [Guide Title](link-to-guide)
    - Brief description of what this guide covers.
 
-[... Add more guides as needed ...]
-
 ## Contributing
 
 Please read [CONTRIBUTING.md](link-to-contributing-file) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE.md](link-to-license-file) file for details.
 
 ## Contact
 
