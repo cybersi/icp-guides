@@ -7,9 +7,7 @@ Welcome to ICP GUIDES. Here, you will find a collection of guides and resources 
 - [Getting Started](#getting-started)
 - [Deploying Hello World](#guides)
 - [Guides](#guides)
-- [Contributing](#contributing)
-- [Contact](#contact)
-
+  
 ## Getting Started
 ### Installation of IC Software Development Kit (SDK) 
    - **Linux**:   [Linux](ic-sdk-install-linux.md)
@@ -28,12 +26,3 @@ Here is a list of guides available:
 
 3. **Guide 3**: [Guide Title](link-to-guide)
    - Brief description of what this guide covers.
-
-## Contributing
-
-Please read [CONTRIBUTING.md](link-to-contributing-file) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Contact
-
-Project Link: [https://yourprojectlink.git](https://yourprojectlink.git)
-
