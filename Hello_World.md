@@ -1,5 +1,11 @@
 # Deploying Hello World
 
+Switch to the identity you created [here](DFX_Wallet.md).
+
+```shell
+dfx identity use <name>
+```
+
 ## Create a New Hello World Project
 
 ```shell
