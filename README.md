@@ -15,8 +15,12 @@ Welcome to ICP GUIDES. Here, you will find a collection of guides and resources 
 [Provide a brief introduction about your project, its purpose, and what it aims to achieve.]
 
 ## Getting Started
+   **Linux**:   [Linux](link-to-guide)
+   **MacOS**:   [Linux](link-to-guide)
+   **Windows**: [Linux](link-to-guide)
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+
 
 ### Prerequisites
 
