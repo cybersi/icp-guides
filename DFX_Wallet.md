@@ -3,7 +3,7 @@
 
 ### Create New Identity
 
-Create a new identity and select it:
+Create a new identity:
 
 ```shell
 dfx identity new <name>
