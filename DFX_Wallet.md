@@ -7,10 +7,13 @@ Create a new identity and select it:
 
 ```shell
 dfx identity new <name>
-dfx identity use <name>
 ```
 
-## Send ICP to Your DFX Account
+Select new identity:
+
+```shell
+dfx identity use <name>
+```
 
 Retrieve your account identifier:
 
@@ -18,9 +21,9 @@ Retrieve your account identifier:
 dfx ledger account-id
 ```
 
-### Check Balance
+### Send ICP to DFX account and Check the Balance
 
-Check your ICP token balance on the network:
+Check your ICP token balance:
 
 ```shell
 dfx ledger --network ic balance
