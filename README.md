@@ -14,7 +14,7 @@ Welcome to ICP GUIDES. Here, you will find a collection of guides and resources 
    - **MacOS**:   [MacOS](IC_SDK_MacOS.md)
    - **Windows**: [Windows](IC_SDK_Windows.md)
 
-### 2. Create DFX Identity and Cycles Wallet 
+### 2. Creation of DFX Identity and Cycles Wallet 
    - **DFX identity**:   [DFX Wallet](DFX_Wallet.md)
 
 ### Deploying Hello World 
