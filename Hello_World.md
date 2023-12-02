@@ -52,7 +52,9 @@ Check your ICP token balance on the network:
 dfx ledger --network ic balance
 ```
 
-### Quick
+## Create Cycles Wallet
+
+### Quick Method
 
 For a quick deployment:
 
@@ -60,9 +62,7 @@ For a quick deployment:
 dfx quickstart
 ```
 
-### Manual
-
-### Create Wallet Canister
+### Manual Method
 
 Create a new canister on the network and deposit ICP tokens into it:
 
