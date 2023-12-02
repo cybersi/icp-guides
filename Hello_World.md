@@ -1,6 +1,6 @@
 # Deploying Hello World
 
-Switch to the identity you created [here](DFX_Wallet.md).
+Switch to new identity you created [here](DFX_Wallet.md).
 
 ```shell
 dfx identity use <name>
