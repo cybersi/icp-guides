@@ -59,5 +59,5 @@ Obtain wallet address:
 Top-up cycles wallet:
 
 ```shell
-dfx ledger --network=ic top-up --amount 0.5 <WALLET_CANISTER_ID>
+dfx ledger --network=ic top-up --amount <ICP_TOKENS> <WALLET_CANISTER_ID>
 ```
