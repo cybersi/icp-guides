@@ -36,7 +36,7 @@ http://localhost:8080
 
 # Deploy on the Internet Computer Mainnet
 
-## Send ICP to Your DFX Account
+### Send ICP to Your DFX Account
 
 Retrieve your account identifier:
 
@@ -44,7 +44,7 @@ Retrieve your account identifier:
 dfx ledger account-id
 ```
 
-## Check Balance
+### Check Balance
 
 Check your ICP token balance on the network:
 
@@ -52,7 +52,7 @@ Check your ICP token balance on the network:
 dfx ledger --network ic balance
 ```
 
-## Quick Deployment
+### Quick Deployment
 
 For a quick deployment:
 
@@ -60,7 +60,7 @@ For a quick deployment:
 dfx quickstart
 ```
 
-## Manual Deployment Process
+### Manual Deployment Process
 
 ### Create Wallet Canister
 
