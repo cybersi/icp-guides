@@ -29,8 +29,6 @@ http://localhost:8080
 
 Create and top up cycles wallet as described [here](DFX_Wallet.md).
 
-### Deploy on the Internet Computer Mainnet
-
 Deploy your project to the IC network:
 
 ```shell
