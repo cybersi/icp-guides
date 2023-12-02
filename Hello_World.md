@@ -56,15 +56,10 @@ dfx ledger --network ic balance
 
 ### Quick Method
 
-For a quick deployment:
-
 ```shell
 dfx quickstart
 ```
-
 ### Manual Method
-
-Create a new canister on the network and deposit ICP tokens into it:
 
 ```shell
 dfx identity get-principal
