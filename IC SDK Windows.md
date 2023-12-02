@@ -35,7 +35,7 @@ sudo apt upgrade -y
 sudo apt install curl libunwind-dev -y
 ```
 
-## Installing Node.js (v.21)
+## Installing Node.js (v21)
 
 ```shell
 curl -SLO https://deb.nodesource.com/nsolid_setup_deb.sh
