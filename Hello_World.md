@@ -52,7 +52,7 @@ Check your ICP token balance on the network:
 dfx ledger --network ic balance
 ```
 
-### Quick Deployment
+### Quick Cycles Wallet Creation
 
 For a quick deployment:
 
@@ -60,7 +60,7 @@ For a quick deployment:
 dfx quickstart
 ```
 
-### Manual Deployment Process
+### Manual Cycles Wallet Creation
 
 ### Create Wallet Canister
 
