@@ -38,7 +38,7 @@ sudo apt install nodejs -y
 
 ## Installing IC SDK
 
-Install the Internet Computer SDK for Debian and Ubuntu:
+Install the Internet Computer SDK:
 
 ```shell
 sh -ci "$(curl -fsSL https://smartcontracts.org/install.sh)"
