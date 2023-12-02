@@ -21,10 +21,6 @@ wsl --install -d Debian
 
 Access Linux files from Windows by entering `\\wsl$` in the File Explorer address bar.
 
-## Installing a Code Editor
-
-Download and install Visual Studio Code (or similar) from the official [download page](https://code.visualstudio.com/download).
-
 # Linux Setup (Debian, Ubuntu)
 
 ## Updating System and Installing Dependencies
