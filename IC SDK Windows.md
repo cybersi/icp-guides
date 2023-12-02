@@ -38,8 +38,10 @@ sudo apt install curl libunwind-dev -y
 ## Installing Node.js
 
 ```shell
-curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
-sudo apt-get install -y nodejs
+ccurl -SLO https://deb.nodesource.com/nsolid_setup_deb.sh
+sudo chmod 500 nsolid_setup_deb.sh
+sudo ./nsolid_setup_deb.sh 20
+sudo apt install nodejs -y
 ```
 
 ## Installing IC SDK
