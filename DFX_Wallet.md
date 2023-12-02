@@ -48,10 +48,16 @@ Check the cycles wallet balance:
 dfx wallet --network ic balance
 ```
 
-## Top-Up Canisters
+## Topping up Cycles Wallet
 
-Add cycles to your canister as needed:
+Obtain wallet address:
 
 ```shell
-dfx wallet --network ic send <CANISTER_ID> <AMOUNT_CYCLES>
+ dfx identity --network=ic get-wallet
+```
+
+Top-up cycles wallet:
+
+```shell
+dfx ledger --network=ic top-up --amount 0.5 <WALLET_CANISTER_ID>
 ```
