@@ -1,4 +1,4 @@
-## Deploying Hello World
+# Deploying Hello World
 
 ### Create New Identity
 
@@ -34,7 +34,7 @@ Open your web browser and go to:
 http://localhost:8080
 ```
 
-# Deploy on the Internet Computer Mainnet
+## Deploy on the Internet Computer Mainnet
 
 ### Send ICP to Your DFX Account
 
