@@ -17,7 +17,7 @@ dfx identity use <name>
 
 ### Send ICP to DFX account and Check the Balance
 
-Retrieve your account identifier to send the ICP to:
+Retrieve your account identifier:
 
 ```shell
 dfx ledger account-id
