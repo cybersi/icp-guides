@@ -4,7 +4,7 @@
 
 1. Go to **Control Panel** → **Programs** → **Turn Windows features on or off**.
 2. Check the box for **Windows Subsystem for Linux**.
-3. Click **OK** and reboot your system when prompted.
+3. Click **OK** and reboot your system if requested.
 
 ## Installing the Linux Subsystem
 
