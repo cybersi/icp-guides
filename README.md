@@ -18,7 +18,7 @@ Welcome to ICP GUIDES. Here, you will find a collection of guides and resources 
 
 ## Guides
 
-Here is a list of guides available for our project:
+Here is a list of guides available:
 
 1. **Guide 1**: [Guide Title](link-to-guide)
    - Brief description of what this guide covers.
