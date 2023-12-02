@@ -14,5 +14,5 @@ brew install node
 Install the Internet Computer SDK:
 
 ```shell
-sh -ci "$(curl -fsSL https://smartcontracts.org/install.sh)"
+sh -ci "$(curl -fsSL https://internetcomputer.org/install.sh)"
 ```
