@@ -4,8 +4,8 @@ Welcome to ICP GUIDES. Here, you will find a collection of guides and resources 
 
 ## Table of Contents
 
-- [Installation of IC SDK](#getting-started)
-- [Deploy your first app](#guides)
+- [Getting Started](#getting-started)
+- [Deploying Hello World](#guides)
 - [Guides](#guides)
 - [Contributing](#contributing)
 - [Contact](#contact)
