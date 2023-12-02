@@ -54,7 +54,7 @@ Log out and then log back in to ensure the SDK is properly initialized.
 
 ### Create New Identity
 
-Manually create a new identity and use it:
+Create a new identity and select it:
 
 ```shell
 dfx identity new <name>
