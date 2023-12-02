@@ -1,4 +1,4 @@
-# Setting Up WSL for Windows 10/11
+# Installation of IC SDK on Windows (WSL)
 
 ## Enabling Windows Subsystem for Linux
 
