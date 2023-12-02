@@ -27,7 +27,7 @@ http://localhost:8080
 
 ## Deploy on the Internet Computer Mainnet
 
-### Create and top up cycles wallet as described [here](DFX_Wallet.md).
+Create and top up cycles wallet as described [here](DFX_Wallet.md).
 
 ### Deploy on the Internet Computer Mainnet
 
