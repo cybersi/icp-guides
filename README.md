@@ -14,6 +14,9 @@ Welcome to ICP GUIDES. Here, you will find a collection of guides and resources 
    - **MacOS**:   [MacOS](IC_SDK_MacOS.md)
    - **Windows**: [Windows](IC_SDK_Windows.md)
 
+### Deploying first app 
+   - **Hello World**:   [Hello World](Hello_World.md)
+
 ## Guides
 
 Here is a list of guides available:
