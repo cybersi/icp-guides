@@ -44,6 +44,10 @@ dfx identity get-principal
 dfx ledger --network ic create-canister <PRINCIPAL_ID> --amount <ICP_TOKENS>
 dfx identity --network ic deploy-wallet <WALLET_CANISTER_ID>
 ```
+Check the cycles wallet balance:
+```shell
+dfx wallet --network ic balance
+```
 
 ## Top-Up Canisters
 
