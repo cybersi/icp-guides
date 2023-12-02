@@ -1,10 +1,10 @@
-# Project Title
+# ICP GUIDES
 
-Welcome to the [Project Name] landing page. Here, you will find a collection of guides and resources to help you get started with our project.
+Welcome to ICP GUIDES. Here, you will find a collection of guides and resources to help you get started with development on the Internet Computer (ICP).
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [IC SDK Installation](#Installation)
 - [Getting Started](#getting-started)
 - [Guides](#guides)
 - [Contributing](#contributing)
