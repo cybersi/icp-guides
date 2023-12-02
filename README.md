@@ -14,19 +14,11 @@ Welcome to ICP GUIDES. Here, you will find a collection of guides and resources 
 
 [Provide a brief introduction about your project, its purpose, and what it aims to achieve.]
 
-## IC SDK Installation
-   - **Linux**:   [Linux](link-to-guide)-
+## Getting Started
+### Installation of IC Software Development Kit (SDK) 
+   - **Linux**:   [Linux](link-to-guide)
    - **MacOS**:   [MacOS](link-to-guide)
    - **Windows**: [Windows](link-to-guide)
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-### Installation
-
-A step by step series of examples that tell you how to get a development environment running.
-
 
 ## Guides
 
