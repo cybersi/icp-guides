@@ -23,7 +23,7 @@ Access Linux files from Windows by entering `\\wsl$` in the File Explorer addres
 
 ## Installing a Code Editor
 
-Download and install Visual Studio Code from the official [download page](https://code.visualstudio.com/download).
+Download and install Visual Studio Code (or similar) from the official [download page](https://code.visualstudio.com/download).
 
 # Linux Setup (Debian, Ubuntu)
 
