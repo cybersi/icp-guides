@@ -18,7 +18,7 @@ Retrieve your account identifier:
 dfx ledger account-id
 ```
 
-## Check Balance
+### Check Balance
 
 Check your ICP token balance on the network:
 
@@ -26,27 +26,18 @@ Check your ICP token balance on the network:
 dfx ledger --network ic balance
 ```
 
-## Quick Method
+## Create Cycles Wallet
 
-For a quick deployment:
-
+### Quick Method
+Perform initial one time setup for your identity and/or wallet: 
 ```shell
 dfx quickstart
 ```
+### Manual Method
 
-## Manual Method
-
-### Create Wallet Canister
-
-Obtain your principal identifier:
-
+Create a new canister on the network, deposit ICP tokens into it and deploy wallet code:
 ```shell
 dfx identity get-principal
-```
-
-Create a new canister on the network and deposit ICP tokens into it:
-
-```shell
 dfx ledger --network ic create-canister <PRINCIPAL_ID> --amount <ICP_TOKENS>
 dfx identity --network ic deploy-wallet <WALLET_CANISTER_ID>
 ```
