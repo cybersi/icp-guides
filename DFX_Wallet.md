@@ -8,7 +8,7 @@ Create a new identity:
 dfx identity new <name>
 ```
 
-Select new identity:
+and select it:
 
 ```shell
 dfx identity use <name>
