@@ -4,15 +4,11 @@ Welcome to ICP GUIDES. Here, you will find a collection of guides and resources 
 
 ## Table of Contents
 
-- [Introduction](#Introduction)
-- [Getting Started](#getting-started)
+- [Installing IC Software Development Kit (SDS)](#getting-started)
+- [Deploying Hello World](#guides)
 - [Guides](#guides)
 - [Contributing](#contributing)
 - [Contact](#contact)
-
-## Introduction
-
-[Provide a brief introduction about your project, its purpose, and what it aims to achieve.]
 
 ## Getting Started
 ### Installation of IC Software Development Kit (SDK) 
