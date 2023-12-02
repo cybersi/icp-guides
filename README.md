@@ -16,9 +16,9 @@ Welcome to ICP GUIDES. Here, you will find a collection of guides and resources 
 
 ## Getting Started
 ### Installation of IC Software Development Kit (SDK) 
-   - **Linux**:   [Linux](ic-sdk-install-linux)
-   - **MacOS**:   [MacOS](ic-sdk-install-macos)
-   - **Windows**: [Windows](ic-sdk-install-windows)
+   - **Linux**:   [Linux](ic-sdk-install-linux.md)
+   - **MacOS**:   [MacOS](ic-sdk-install-macos.md)
+   - **Windows**: [Windows](ic-sdk-install-windows.md)
 
 ## Guides
 
