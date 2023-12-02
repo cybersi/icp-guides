@@ -36,11 +36,3 @@ Deploy your project to the IC network:
 ```shell
 dfx deploy --network ic
 ```
-
-## Top-Up Canisters
-
-Add cycles to your canister as needed:
-
-```shell
-dfx wallet --network ic send <CANISTER_ID> <AMOUNT_CYCLES>
-```
