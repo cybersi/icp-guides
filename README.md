@@ -17,7 +17,7 @@ Welcome to ICP GUIDES. Here, you will find a collection of guides and resources 
 ### 2. DFX Identity and Cycles Wallet 
    - **DFX Wallet**:   [DFX Wallet](DFX_Wallet.md)
 
-### Deploying Hello World 
+### 3. Deploying Hello World 
    - **Hello World**:   [Hello World](Hello_World.md)
 
 ## Guides
