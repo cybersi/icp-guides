@@ -22,6 +22,9 @@ Welcome to ICP GUIDES. Here, you will find a collection of guides and resources 
 ### 3. Hello World 
    - **Hello World**:   [Hello World](Hello_World.md)
 
+### 4. Canisters 
+   - **Canisters**:   [Canisters](Canisters.md)
+
 ## Guides
 
 Here is a list of guides available:
