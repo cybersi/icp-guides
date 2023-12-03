@@ -9,7 +9,7 @@ Welcome to ICP GUIDES. Here, you will find a collection of guides and resources 
 - [Guides](#guides)
   
 ## Getting Started
-### 1. Installation of IC Software Development Kit (SDK) 
+### 1. IC Software Development Kit (SDK) 
    - **Linux**:   [Linux](IC_SDK_Linux.md)
    - **MacOS**:   [MacOS](IC_SDK_MacOS.md)
    - **Windows**: [Windows](IC_SDK_Windows.md)
@@ -17,7 +17,7 @@ Welcome to ICP GUIDES. Here, you will find a collection of guides and resources 
 ### 2. DFX Identity and Cycles Wallet 
    - **DFX Wallet**:   [DFX Wallet](DFX_Wallet.md)
 
-### 3. Deploying Hello World 
+### 3. Hello World 
    - **Hello World**:   [Hello World](Hello_World.md)
 
 ## Guides
