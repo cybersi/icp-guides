@@ -8,7 +8,7 @@ Welcome to ICP GUIDES. This resource provides a comprehensive collection of guid
 - [IC Software Development Kit (SDK)](#1-ic-software-development-kit-sdk)
 - [DFX Identity and Cycles Wallet](#2-dfx-identity-and-cycles-wallet)
 - [Hello World](#3-hello-world)
-- [Canisters](#4-canisters)
+- [Topping-Up Canisters](#4-canisters)
 - [Guides](#guides)
 
 ## Getting Started
@@ -35,9 +35,9 @@ Begin your development journey with a simple dapp:
 
 - [Hello World Tutorial](Hello_World.md)
 
-### 4. Canisters 
+### 4. Topping-Up Canisters 
 
-Canisters Management Guide:
+Topping-Up Canisters Guide:
 
 - [Canisters Management Guide](Canisters.md)
 
