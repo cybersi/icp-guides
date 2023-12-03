@@ -15,6 +15,12 @@ In DFX 0.15.2+ you can define cycles amount also as:
 - b for 000_000_000, e.g. 50B
 - t for 000_000_000_000, e.g. 0.3T
 
+## Using NNS
+Navigate to: https://nns.ic0.app and log in. 
+
+
+
+
 Create a new identity:
 
 ```shell
