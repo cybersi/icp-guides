@@ -6,6 +6,7 @@ Install IC Software Development KIT (SKD):
 - [MaxOS](IC_SDK_MacOS.md)
 - [Windows](IC_SDK_Windows.md)
 
+### Select the Identity
 Create a new [identity](DFX_Wallet.md) and select it:
 
 ```shell
