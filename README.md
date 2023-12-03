@@ -5,9 +5,9 @@ Welcome to ICP GUIDES. This resource provides a comprehensive collection of guid
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-  - [IC Software Development Kit (SDK)](#ic-software-development-kit-sdk)
-  - [DFX Identity and Cycles Wallet](#dfx-identity-and-cycles-wallet)
-  - [Hello World](#hello-world)
+  - [1. IC Software Development Kit (SDK)](#1-ic-software-development-kit-sdk)
+  - [2. DFX Identity and Cycles Wallet](#2-dfx-identity-and-cycles-wallet)
+  - [3. Hello World](#3-hello-world)
 - [Guides](#guides)
   - [Topping-Up Canisters](Canisters.md)
 
@@ -15,7 +15,7 @@ Welcome to ICP GUIDES. This resource provides a comprehensive collection of guid
 
 This section helps you set up your development environment.
 
-### IC Software Development Kit (SDK)
+### 1. IC Software Development Kit (SDK)
 
 Setup instructions for different operating systems:
 
@@ -23,13 +23,13 @@ Setup instructions for different operating systems:
 - [MacOS Installation Guide](IC_SDK_MacOS.md) - **MacOS**
 - [Windows Installation Guide](IC_SDK_Windows.md) - **Windows**
 
-### DFX Identity and Cycles Wallet
+### 2. DFX Identity and Cycles Wallet
 
 Learn about managing identities and wallets:
 
 - [DFX Identity and Cycles Wallet Guide](DFX_Wallet.md)
 
-### Hello World
+### 3. Hello World
 
 Start your development journey with a simple dApp:
 
