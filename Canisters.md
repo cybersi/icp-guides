@@ -1,4 +1,4 @@
-# Canisters Management Guide
+# Topping-Up Canisters
 
 ### Retrieving the Canister ID
 
@@ -18,8 +18,6 @@ You'll need Canister ID to perform the canister operations. You have several opt
    
 3. **Checking Local Files**:  
    Alternatively, find the canister ID in the `canister_ids.json` file in your project directory.
-
-# Topping-up Canisters
 
 ## Topping-Up Canisters with DFX and Cycles Wallet
 
