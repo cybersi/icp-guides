@@ -56,6 +56,9 @@ For deployment on the Internet Computer's main network:
    dfx deploy --network ic
    ```
    
-## To Top-up Canisters with cycles follow this [guide](Canisters.md).
+## Topping-up Canisters with Cycles
 
-1. Create a cycles wallet and fund it, as detailed [here](DFX_Wallet.md).
+Topping-up canisters involves adding more computational resources (cycles) to your canisters on the Internet Computer. This is an essential step to ensure your canisters continue to run smoothly.
+
+1. **Follow the Detailed Guide**: For step-by-step instructions on how to top-up your canisters with cycles, please refer to our comprehensive [Canisters Top-up Guide](Canisters.md). This guide will walk you through the process, ensuring you can efficiently manage your canisters' resources.
+
