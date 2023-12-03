@@ -1,6 +1,6 @@
 # Deploying a Hello World dApp
 
-This guide will walk you through the process of deploying a simple 'Hello World' application using the Internet Computer platform.
+This guide will walk you through the process of deploying a simple 'Hello World' dApp using the Internet Computer platform.
 
 ## Prerequisites
 Before you begin, make sure you have the Internet Computer Software Development Kit (SDK) installed on your system. You can find the installation guide for your operating system below:
