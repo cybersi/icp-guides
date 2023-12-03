@@ -21,9 +21,9 @@ wsl --list --online
 wsl --install -d Debian
 ```
 
-# Linux Setup (Debian, Ubuntu)
+# Linux Setup
 
-After setting up WSL with Debian or Ubuntu, proceed with the following steps.
+After setting up WSL proceed with the following steps.
 
 ## Updating System and Installing Dependencies
 
