@@ -1,6 +1,9 @@
 # Deploying Hello World App
 
-Install IC Software Development KIT as described [here](DFX_Wallet.md).
+Install IC Software Development KIT:
+- [Linux](IC_SDK_Linux.md)
+- [MaxOS](IC_SDK_MacOS.md)
+- [Windows](IC_SDK_Windows.md)
 
 Switch to a new identity you created [here](DFX_Wallet.md).
 
