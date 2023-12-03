@@ -1,4 +1,4 @@
-# Topping-Up Canisters
+# Topping-Up Canisters with Cycles
 
 ### Retrieving the Canister ID
 
