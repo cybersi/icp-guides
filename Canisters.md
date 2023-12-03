@@ -21,7 +21,7 @@ You'll need Canister ID to perform the canister operations. You have several opt
 
 ## Topping-up Canisters
 
-### Topping-Up Canisters with DFX and Cycles Wallet
+## Topping-Up Canisters with DFX and Cycles Wallet
 
 To top up your canisters, use DFX in conjunction with the Cycles Wallet:
 
@@ -40,7 +40,7 @@ To top up your canisters, use DFX in conjunction with the Cycles Wallet:
 
    Refer to the [DFX and Cycles Wallet guide](DFX_Wallet.md) for more details.
 
-### Topping-Up Canisters via NNS
+## Topping-Up Canisters via NNS
 
 1. **Navigating to NNS**:  
    Go to [NNS Canister Management](https://nns.ic0.app/canisters/) and log in.
