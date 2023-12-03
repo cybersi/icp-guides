@@ -31,7 +31,7 @@ Learn about managing identities and wallets:
 
 ### Hello World 
 
-Begin your development journey with a simple program:
+Begin your development journey with a simple dapp:
 
 - [Hello World Tutorial](Hello_World.md)
 
