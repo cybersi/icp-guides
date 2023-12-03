@@ -60,7 +60,7 @@ If you prefer manual setup:
 
 To add more funds to your cycles wallet:
 
-1. **Obtain your wallet address**:
+1. **Obtain your Wallet Canister ID**:
    ```shell
    dfx identity --network=ic get-wallet
    ```
