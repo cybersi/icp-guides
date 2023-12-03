@@ -25,7 +25,7 @@ Setup instructions for different operating systems:
 
 ### 2. DFX Identity and Cycles Wallet 
 
-Learn about managing identities and wallets:
+Managing identities and wallets:
 
 - [DFX Identity and Cycles Wallet Guide](DFX_Wallet.md)
 
