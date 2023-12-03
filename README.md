@@ -4,7 +4,7 @@ Welcome to ICP GUIDES. Here, you will find a collection of guides and resources 
 
 ## Table of Contents
 
-- [Getting Started](###1. IC Software Development Kit (SDK))
+- [Getting Started](###1.-IC-Software-Development-Kit-(SDK))
 - [IC Software Development Kit (SID](#guides)
 - [Deploying Hello World](#guides)
 - [Guides](#guides)
