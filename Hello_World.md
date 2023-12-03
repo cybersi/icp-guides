@@ -1,4 +1,4 @@
-# Deploying a Hello World App on the Internet Computer
+# Deploying a Hello World dApp
 
 This guide will walk you through the process of deploying a simple 'Hello World' application using the Internet Computer platform.
 
