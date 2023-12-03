@@ -9,7 +9,7 @@ Deploy the project with:
 ```shell
  dfx deploy --network ic
 ```
-or query canister id with:
+...or query canister id with:
 
 ```shell
 dfx canister id --network ic <canister_name>
