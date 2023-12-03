@@ -2,7 +2,7 @@
 
 ## Topping-up Canisters
 
-To get canister ids deploy the project with:
+To get canister id, deploy the project with:
 
 ```shell
  dfx deploy --network ic
