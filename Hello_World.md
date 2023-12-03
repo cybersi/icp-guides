@@ -2,7 +2,7 @@
 
 This guide will walk you through the process of deploying a simple 'Hello World' dApp using the Internet Computer platform.
 
-Hello World is a simple dapp consisting of two canisters:
+### Hello World is a simple dapp consisting of two canisters:
 - A simple backend canister, hello_backend, implementing the logic of the application.
 - A simple frontend asset canister, hello_frontend, serving the assets of the dapp’s web user interface.
 
