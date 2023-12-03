@@ -2,7 +2,7 @@
 
 ## Topping-up Canisters
 
-To get canister ids open canister_ids.json file or use:
+To get canister ids open canister_ids.json or use:
 
 ```shell
 dfx canister id --network ic <canister_name>
