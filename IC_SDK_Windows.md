@@ -8,7 +8,7 @@ Follow these steps to enable WSL on your Windows system:
 
 1. Navigate to **Control Panel** → **Programs** → **Turn Windows features on or off**.
 2. Select the checkbox for **Windows Subsystem for Linux**.
-3. Click **OK** and reboot your system if requested.
+3. Click **OK** and reboot your system if required.
 
 ## Installing the Linux Subsystem
 
