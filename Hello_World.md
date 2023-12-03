@@ -28,7 +28,7 @@ Follow these steps to deploy your app on a local server:
    ```shell
    cd hello
    ```
-2. Start the local Internet Computer network server:
+2. Start the local canister execution environment :
    ```shell
    dfx start --background
    ```
