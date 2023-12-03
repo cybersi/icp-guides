@@ -5,7 +5,7 @@ Install IC Software Development KIT:
 - [MaxOS](IC_SDK_MacOS.md)
 - [Windows](IC_SDK_Windows.md)
 
-Switch to a new identity you created [here](DFX_Wallet.md).
+Create and/or Switch to new identity as describe [here](DFX_Wallet.md).
 
 ```shell
 dfx identity use <name>
