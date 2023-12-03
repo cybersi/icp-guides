@@ -1,5 +1,4 @@
 # Canisters Management Guide
-On the Internet Computer, smart contracts come in the form of canisters. These are computational units which bundle together code and state. 
 
 ### Retrieving the Canister ID
 
