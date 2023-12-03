@@ -2,7 +2,11 @@
 
 ## Topping-up Canisters
 
-To get canister id, deploy the project with:
+To get canister id:
+
+open canister_ids.json
+
+Deploy the project with:
 
 ```shell
  dfx deploy --network ic
@@ -15,7 +19,7 @@ dfx canister id --network ic <canister_name>
 
 or
 
-open canister_ids.json
+
 
 ### Using DFX and Cycles Wallet
 
