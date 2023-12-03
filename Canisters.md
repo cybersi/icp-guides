@@ -2,6 +2,12 @@
 
 ## Topping-up Canisters
 
+To get canister ids open canister_ids.json file or use:
+
+```shell
+dfx canister id --network ic <canister_name>
+```
+
 ### Using DFX and Cycles Wallet
 
 Topping-up canisters using [DFX and Cycles Wallet](DFX_Wallet.md):
@@ -21,11 +27,7 @@ Navigate to: [https://nns.ic0.app](https://nns.ic0.app/canisters/) and log in.
 ### Link Canisters
 Click Link Canister Button in the My Canisters section and add your canisters.
 
-To get canister ids check canister_ids.json or use:
 
-```shell
-dfx canister id --network ic <canister_name>
-```
 Copy your NNS Principal.
 
 ### Add NNS Principal as a Canister Controller
