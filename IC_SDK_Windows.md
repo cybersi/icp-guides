@@ -12,7 +12,7 @@ Follow these steps to enable WSL on your Windows system:
 
 ## Installing the Linux Subsystem
 
-Use the Command Prompt as an Administrator to install the Linux subsystem:
+Use the Command Prompt as an Administrator to install the Linux subsystem (Debian in this example):
 
 ```shell
 wsl --update
