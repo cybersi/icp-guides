@@ -16,13 +16,18 @@ In DFX 0.15.2+ you can define cycles amount also as:
 - t for 000_000_000_000, e.g. 0.3T
 
 ## Using NNS
-Navigate to: https://nns.ic0.app and log in. 
+Navigate to: [https://nns.ic0.app](https://nns.ic0.app/canisters/) and log in.
 
+### Link Canisters
+Click Link Canister Button in the My Canisters section and add your canisters.
 
+Copy your NNS Principal.
 
+### Add NNS Principal as a Canister Controller
 
-Create a new identity:
+Add principal as a Canister Controller:
 
 ```shell
 dfx canister controllers add <canister_id> <principal>
 ```
+
