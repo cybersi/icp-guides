@@ -1,49 +1,53 @@
-# Deploying Hello World App
+# Deploying a Hello World App on the Internet Computer
 
-### Prerequisites
-Install IC Software Development KIT (SKD):
-- [Linux](IC_SDK_Linux.md)
-- [MaxOS](IC_SDK_MacOS.md)
-- [Windows](IC_SDK_Windows.md)
+This guide will walk you through the process of deploying a simple 'Hello World' application using the Internet Computer platform.
 
-### Select the Identity
-Create a new [identity](DFX_Wallet.md) and select it:
+## Prerequisites
+Before you begin, make sure you have the Internet Computer Software Development Kit (SDK) installed on your system. You can find the installation guide for your operating system below:
+- [Install IC SDK for Linux](IC_SDK_Linux.md)
+- [Install IC SDK for MacOS](IC_SDK_MacOS.md)
+- [Install IC SDK for Windows](IC_SDK_Windows.md)
 
-```shell
-dfx identity use <name>
-```
+## Setting Up Your Identity
+Your identity is required to interact with the Internet Computer network.
+1. Create a new identity by following the instructions provided [here](DFX\_Wallet.md).
+2. Activate your new identity with this command:
+   ```shell
+   dfx identity use <identity_name>
+   ```
 
-## Create a New Hello World Project
-
+## Creating a New Hello World Project
+Start by generating a new project. This will create a basic 'Hello World' application:
 ```shell
 dfx new hello
 ```
 
-## Deploy Locally
+\## Deploying Locally
+Follow these steps to deploy your app on a local server:
+1. Change to the project directory:
+   ```shell
+   cd hello
+   ```
+2. Start the local Internet Computer network server:
+   ```shell
+   dfx start --background
+   ```
+3. Deploy your application:
+   ```shell
+   dfx deploy
+   npm start
+   ```
 
-Navigate to the project directory and start the local server:
-
-```shell
-cd hello
-dfx start --background
-dfx deploy
-npm start
-```
-
-### Access the Local App
-
-Open your web browser and go to:
-
+### Accessing Your Local App
+To view your app, open a web browser and navigate to:
 ```
 http://localhost:8080
 ```
 
-## Deploy on the Internet Computer Mainnet
-
-Create cycles wallet and top-it-up as described [here](DFX_Wallet.md).
-
-Deploy your project on the IC network:
-
-```shell
-dfx deploy --network ic
-```
+\## Deploying to the Internet Computer Mainnet
+For deployment on the Internet Computer's main network:
+1. Ensure you have a funded cycles wallet, as detailed [here](DFX\_Wallet.md).
+2. Deploy your project using this command:
+   ```shell
+   dfx deploy --network ic
+   ```
