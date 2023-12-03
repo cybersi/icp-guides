@@ -39,7 +39,7 @@ Begin your development journey with a simple dapp:
 
 Topping-Up Canisters Guide:
 
-- [Canisters Management Guide](Canisters.md)
+- [Topping-Up Canisters Guide](Canisters.md)
 
 ## Guides
 
