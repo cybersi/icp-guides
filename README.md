@@ -34,15 +34,9 @@ Start your development journey with a simple application:
 
 - [Hello World Tutorial](Hello_World.md)
 
-### Topping-Up Canisters
-
-Learn how to add resources to your canisters:
-
-- [Topping-Up Canisters Guide](Canisters.md)
-
 ## Guides
 
 Explore our curated list of guides for various topics:
 
 1. **Guide 1**: [Topping-Up Canisters](Canisters.md)
-   - Overview: Various methods for topping up canisters with cycles.
+   - Overview: Learn how to top-up canisters with cycles.
