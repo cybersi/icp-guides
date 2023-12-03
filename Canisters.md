@@ -8,7 +8,7 @@
 Topping-up canisters:
 
 ```shell
-dfx wallet --network ic send <canister_id> <amount in cycles>
+dfx wallet --network ic send <canister_id> <amount_cycles>
 ```
 In DFX 0.15.2+ you can define cycles amount also as:
 - k for 000, e.g. 500k
