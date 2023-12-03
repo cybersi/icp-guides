@@ -22,7 +22,7 @@ To identify your canister ID, you have several options:
 3. **Checking Local Files**:  
    Alternatively, find the canister ID in the `canister_ids.json` file in your project directory.
 
-### Adding Cycles with DFX and Cycles Wallet
+### Topping-Up Canisters with DFX and Cycles Wallet
 
 To top up your canisters, use DFX in conjunction with the Cycles Wallet:
 
@@ -41,9 +41,7 @@ To top up your canisters, use DFX in conjunction with the Cycles Wallet:
 
    Refer to the [DFX and Cycles Wallet guide](DFX_Wallet.md) for more details.
 
-## Topping-Up Canisters via NNS
-
-### Accessing Canisters in NNS
+### Topping-Up Canisters via NNS
 
 1. **Navigating to NNS**:  
    Go to [NNS Canister Management](https://nns.ic0.app/canisters/) and log in.
