@@ -2,7 +2,7 @@
 
 ## Topping-up Canisters
 
-###Get the Canister Id:
+### Get the Canister Id:
 
 Deploy the project with:
 
