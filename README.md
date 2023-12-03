@@ -5,9 +5,9 @@ Welcome to ICP GUIDES. Here, you will find a collection of guides and resources 
 ## Table of Contents
 
 - [Getting Started](##getting-started)
-- [IC Software Development Kit (SDK)](1.-ic-software-development-kit-(sdk))
-- [DFX Identity and Cycles Wallet](2.-dfx-identity-and-cycles-wallet)
-- [Hello World](3.-hello-world)
+- [IC Software Development Kit (SDK)](#1.-ic-software-development-kit-(sdk))
+- [DFX Identity and Cycles Wallet](#2.-dfx-identity-and-cycles-wallet)
+- [Hello World](#3.-hello-world)
 - [Guides](#guides)
   
 ## Getting Started
