@@ -21,6 +21,11 @@ Navigate to: [https://nns.ic0.app](https://nns.ic0.app/canisters/) and log in.
 ### Link Canisters
 Click Link Canister Button in the My Canisters section and add your canisters.
 
+To get canister ids check canister_ids.json or use:
+
+```shell
+dfx canister id --network ic <canister_name>
+```
 Copy your NNS Principal.
 
 ### Add NNS Principal as a Canister Controller
@@ -31,3 +36,4 @@ Add principal as a Canister Controller:
 dfx canister controllers add <canister_id> <principal>
 ```
 
+Now you can see the cycles balance and top-up the canisters directly from NNS
