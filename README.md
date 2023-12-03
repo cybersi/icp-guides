@@ -1,6 +1,6 @@
 # ICP GUIDES
 
-Welcome to ICP GUIDES. This resource provides a comprehensive collection of guides and resources to assist you in starting development on the Internet Computer (ICP).
+Welcome to ICP GUIDES. This resource provides a collection of guides and resources to assist you in starting development on the Internet Computer (ICP).
 
 ## Table of Contents
 
