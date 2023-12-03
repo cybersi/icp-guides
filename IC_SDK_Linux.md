@@ -1,4 +1,4 @@
-# Installation of IC SDK on Linux (Debian, Ubuntu)
+# Installation of IC SDK on Linux (Debian, Ubuntu...)
 
 ## Updating System and Installing Dependencies
 
