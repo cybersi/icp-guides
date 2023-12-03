@@ -1,8 +1,7 @@
 # DFX Identity and Cycles Wallet
 
 ## Create New Identity
-
-To create a new identity in DFX, follow these steps:
+Your identity is required to interact with the Internet Computer network. To create a new identity in DFX, follow these steps:
 
 1. **Create the identity** by running:
    ```shell
