@@ -8,7 +8,6 @@ Welcome to ICP GUIDES. This resource provides a comprehensive collection of guid
   - [IC Software Development Kit (SDK)](#ic-software-development-kit-sdk)
   - [DFX Identity and Cycles Wallet](#dfx-identity-and-cycles-wallet)
   - [Hello World](#hello-world)
-  - [Topping-Up Canisters](#topping-up-canisters)
 - [Guides](#guides)
 
 ## Getting Started
@@ -45,11 +44,5 @@ Learn how to add resources to your canisters:
 
 Explore our curated list of guides for various topics:
 
-1. **Guide 1**: [Guide Title](link-to-guide)
-   - Overview: Brief description of what this guide covers.
-
-2. **Guide 2**: [Guide Title](link-to-guide)
-   - Overview: Brief description of what this guide covers.
-
-3. **Guide 3**: [Guide Title](link-to-guide)
-   - Overview: Brief description of what this guide covers.
+1. **Guide 1**: [Topping-Up Canisters](Canisters.md)
+   - Overview: Various methods for topping up canisters with cycles.
