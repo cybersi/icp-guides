@@ -1,8 +1,6 @@
 # Canisters Management Guide
 On the Internet Computer, smart contracts come in the form of canisters. These are computational units which bundle together code and state. 
 
-## Topping-up Canisters
-
 ### Retrieving the Canister ID
 
 To identify your canister ID, you have several options:
@@ -21,6 +19,8 @@ To identify your canister ID, you have several options:
    
 3. **Checking Local Files**:  
    Alternatively, find the canister ID in the `canister_ids.json` file in your project directory.
+
+## Topping-up Canisters
 
 ### Topping-Up Canisters with DFX and Cycles Wallet
 
