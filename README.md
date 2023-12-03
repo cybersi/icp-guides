@@ -5,39 +5,39 @@ Welcome to ICP GUIDES. This resource provides a comprehensive collection of guid
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [IC Software Development Kit (SDK)](#1-ic-software-development-kit-sdk)
-- [DFX Identity and Cycles Wallet](#2-dfx-identity-and-cycles-wallet)
-- [Hello World](#3-hello-world)
-- [Topping-Up Canisters](#4-canisters)
+  - [IC Software Development Kit (SDK)](#ic-software-development-kit-sdk)
+  - [DFX Identity and Cycles Wallet](#dfx-identity-and-cycles-wallet)
+  - [Hello World](#hello-world)
+  - [Topping-Up Canisters](#topping-up-canisters)
 - [Guides](#guides)
 
 ## Getting Started
 
 This section helps you set up your development environment.
 
-### 1. IC Software Development Kit (SDK) 
+### IC Software Development Kit (SDK)
 
 Setup instructions for different operating systems:
 
-- **Linux**: [Linux Installation Guide](IC_SDK_Linux.md)
-- **MacOS**: [MacOS Installation Guide](IC_SDK_MacOS.md)
-- **Windows**: [Windows Installation Guide](IC_SDK_Windows.md)
+- [Linux Installation Guide](IC_SDK_Linux.md) - **Linux**
+- [MacOS Installation Guide](IC_SDK_MacOS.md) - **MacOS**
+- [Windows Installation Guide](IC_SDK_Windows.md) - **Windows**
 
-### 2. DFX Identity and Cycles Wallet 
+### DFX Identity and Cycles Wallet
 
-Managing identities and wallets:
+Learn about managing identities and wallets:
 
 - [DFX Identity and Cycles Wallet Guide](DFX_Wallet.md)
 
-### 3. Hello World 
+### Hello World
 
-Begin your development journey with a simple dapp:
+Start your development journey with a simple application:
 
 - [Hello World Tutorial](Hello_World.md)
 
-### 4. Topping-Up Canisters 
+### Topping-Up Canisters
 
-Topping-Up Canisters Guide:
+Learn how to add resources to your canisters:
 
 - [Topping-Up Canisters Guide](Canisters.md)
 
