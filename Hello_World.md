@@ -6,7 +6,7 @@ Install IC Software Development KIT (SKD):
 - [MaxOS](IC_SDK_MacOS.md)
 - [Windows](IC_SDK_Windows.md)
 
-Create a new Identity if needed as described [here](DFX_Wallet.md).
+Create a new [identity](DFX_Wallet.md) ans select it:
 
 ```shell
 dfx identity use <name>
