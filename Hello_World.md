@@ -44,7 +44,7 @@ To view your app, open a web browser and navigate to:
 http://localhost:8080
 ```
 
-\## Deploying to the Internet Computer Mainnet
+## Deploying to the Internet Computer Mainnet
 For deployment on the Internet Computer's main network:
 1. Ensure you have a funded cycles wallet, as detailed [here](DFX_Wallet.md).
 2. Deploy your project using this command:
