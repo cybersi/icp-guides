@@ -8,15 +8,15 @@ To identify your canister ID, you have several options:
 
 1. **Deploying the Project**:  
    Deploy your project and get the canister ID with:  
-   \`\`\`shell
+   ```shell
    dfx deploy --network ic
-   \`\`\`
+   ```
    
 2. **Querying an Existing Canister ID**:  
    If your canister is already deployed, retrieve its ID with:  
-   \`\`\`shell
+   ```shell
    dfx canister id --network ic <canister_name>
-   \`\`\`
+   ```
    
 3. **Checking Local Files**:  
    Alternatively, find the canister ID in the `canister_ids.json` file in your project directory.
@@ -27,9 +27,9 @@ To top up your canisters, use DFX in conjunction with the Cycles Wallet:
 
 1. **Sending Cycles**:  
    Execute the command to transfer cycles:  
-   \`\`\`shell
+   ```shell
    dfx wallet --network ic send <canister_id> <amount_cycles>
-   \`\`\`
+   ```
    
 2. **Specifying Amounts in DFX 0.15.2+**:  
    In DFX version 0.15.2 and above, you can denote cycle amounts in various units:
@@ -59,8 +59,8 @@ To top up your canisters, use DFX in conjunction with the Cycles Wallet:
 
 1. **Adding NNS Principal**:  
    To allow NNS to manage your canister, run:  
-   \`\`\`shell
+   ```shell
    dfx canister controllers add <canister_id> <principal>
-   \`\`\`
+   ```
    
    After this, you can view and manage your canister's cycles balance directly from NNS.
