@@ -33,14 +33,13 @@ In DFX 0.15.2+ you can define cycles amount also as:
 Navigate to: [https://nns.ic0.app/canisters/](https://nns.ic0.app/canisters/) and log in.
 
 ### Link Canisters
-Click Link Canister Button in the My Canisters section and add your canisters.
-
+Click "Link Canister" Button in the "My Canisters" section and add your Canisters.
 
 Copy your NNS Principal.
 
 ### Add NNS Principal as a Canister Controller
 
-Add principal as a Canister Controller:
+Add NNS principal as a Canister Controller:
 
 ```shell
 dfx canister controllers add <canister_id> <principal>
