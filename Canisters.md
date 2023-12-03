@@ -4,7 +4,7 @@
 
 ###Using DFX and Cycles Wallet
 
-Topping-up canisters using DFX and Cycles Wallet:
+Topping-up canisters using [DFX and Cycles Wallet](DFX_Wallet.md):
 
 ```shell
 dfx wallet --network ic send <canister_id> <amount_cycles>
