@@ -1,4 +1,5 @@
-# Deploying Hello World
+# Hello World
+Deploying Hello World
 
 Switch to new identity you created [here](DFX_Wallet.md).
 
