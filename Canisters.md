@@ -4,8 +4,6 @@
 
 To get canister id:
 
-open canister_ids.json
-
 Deploy the project with:
 
 ```shell
@@ -16,10 +14,9 @@ or query canister id with:
 ```shell
 dfx canister id --network ic <canister_name>
 ```
-
 or
 
-
+open canister_ids.json
 
 ### Using DFX and Cycles Wallet
 
