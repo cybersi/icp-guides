@@ -60,5 +60,4 @@ For deployment on the Internet Computer's main network:
 
 Topping-up canisters involves adding more computational resources (cycles) to your canisters on the Internet Computer. This is an essential step to ensure your canisters continue to run smoothly.
 
-1. **Follow the Detailed Guide**: For step-by-step instructions on how to top-up your canisters with cycles, please refer to our comprehensive [Canisters Top-up Guide](Canisters.md). This guide will walk you through the process, ensuring you can efficiently manage your canisters' resources.
-
+1. **Follow the Detailed Guide**: For step-by-step instructions on how to top-up your canisters with cycles, please refer to our [Canisters Top-up Guide](Canisters.md).
