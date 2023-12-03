@@ -37,9 +37,9 @@ Begin your development journey with a simple dapp:
 
 ### Canisters 
 
-Understand canisters, a fundamental concept in ICP:
+Canisters Management Guide:
 
-- [Canisters Overview](Canisters.md)
+- [Canisters Management Guide](Canisters.md)
 
 ## Guides
 
