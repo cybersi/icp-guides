@@ -5,7 +5,7 @@
 To get canister ids deploy the project using:
 
 ```shell
- "dfx deploy --network ic"
+ dfx deploy --network ic
 ```
 or
 ```shell
