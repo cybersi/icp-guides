@@ -1,4 +1,4 @@
-# DFX Identity and Cycles Wallet Creation
+# DFX Identity and Cycles Wallet
 
 ### Create New Identity
 
