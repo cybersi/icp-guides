@@ -16,7 +16,7 @@ Welcome to ICP GUIDES. Here, you will find a collection of guides and resources 
    - **Windows**: [Windows](IC_SDK_Windows.md)
 
 ### 2. DFX Identity and Cycles Wallet 
-   - **DFX Wallet**:   [DFX Wallet](DFX_Wallet.md)
+   - **DFX Identity and Cycles Wallet**:   [DFX Wallet](DFX_Wallet.md)
 
 ### 3. Hello World 
    - **Hello World**:   [Hello World](Hello_World.md)
