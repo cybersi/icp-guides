@@ -2,7 +2,7 @@
 
 ### Get the Canister ID
 
-You'll need Canister ID to perform the canister operations. You have several option to get the Canister ID:
+You'll need Canister ID to perform the canister operations. You can obtain Canister ID by:
 
 1. **Deploying the Project**:  
    Deploy your project and get the canister ID with:  
