@@ -10,7 +10,7 @@ Before you begin, make sure you have the Internet Computer Software Development 
 
 ## Setting Up Your Identity
 Your identity is required to interact with the Internet Computer network.
-1. Create a new identity by following the instructions provided [here](DFX\_Wallet.md).
+1. Create a new identity by following the instructions provided [here](DFX_Wallet.md).
 2. Activate your new identity with this command:
    ```shell
    dfx identity use <identity_name>
@@ -22,7 +22,7 @@ Start by generating a new project. This will create a basic 'Hello World' applic
 dfx new hello
 ```
 
-\## Deploying Locally
+## Deploying Locally
 Follow these steps to deploy your app on a local server:
 1. Change to the project directory:
    ```shell
@@ -46,7 +46,7 @@ http://localhost:8080
 
 \## Deploying to the Internet Computer Mainnet
 For deployment on the Internet Computer's main network:
-1. Ensure you have a funded cycles wallet, as detailed [here](DFX\_Wallet.md).
+1. Ensure you have a funded cycles wallet, as detailed [here](DFX_Wallet.md).
 2. Deploy your project using this command:
    ```shell
    dfx deploy --network ic
