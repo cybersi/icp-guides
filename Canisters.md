@@ -3,7 +3,7 @@ On the Internet Computer, smart contracts come in the form of canisters. These a
 
 ### Retrieving the Canister ID
 
-You'll need Canister ID to perform the following opewraitons. You have several option to get the Canister ID:
+You'll need Canister ID to perform the following operations. You have several option to get the Canister ID:
 
 1. **Deploying the Project**:  
    Deploy your project and get the canister ID with:  
