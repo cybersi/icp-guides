@@ -9,6 +9,7 @@ Welcome to ICP GUIDES. This resource provides a comprehensive collection of guid
   - [DFX Identity and Cycles Wallet](#dfx-identity-and-cycles-wallet)
   - [Hello World](#hello-world)
 - [Guides](#guides)
+  - [Topping-Up Canisters](Canisters.md)
 
 ## Getting Started
 
