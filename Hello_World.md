@@ -1,5 +1,7 @@
 # Deploying Hello World App
 
+Install IC Software Development KIT as described [here](DFX_Wallet.md).
+
 Switch to a new identity you created [here](DFX_Wallet.md).
 
 ```shell
