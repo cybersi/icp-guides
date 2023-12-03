@@ -51,7 +51,7 @@ To top up your canisters, use DFX in conjunction with the Cycles Wallet:
 2. **Obtaining NNS Principal**:  
    Note your NNS Principal ID for later use.
 
-### Setting NNS Principal as a Canister Controller
+### Adding NNS Principal as a Canister Controller
 
 1. **Adding NNS Principal**:  
    To allow NNS to manage your canister, run:  
