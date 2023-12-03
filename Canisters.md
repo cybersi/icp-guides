@@ -45,4 +45,4 @@ Add NNS principal as a Canister Controller:
 dfx canister controllers add <canister_id> <principal>
 ```
 
-Now you can see the cycles balance and top-up the canisters directly from NNS
+Now you can see the cycles balance and top-up the canisters directly from NNS.
