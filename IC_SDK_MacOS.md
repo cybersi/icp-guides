@@ -16,3 +16,8 @@ Install the Internet Computer SDK:
 ```shell
 sh -ci "$(curl -fsSL https://internetcomputer.org/install.sh)"
 ```
+
+Check the DFX version:
+```shell
+dfx --version
+```
