@@ -1,6 +1,6 @@
 # Deploying Hello World App
 
-## Prerequisites
+### Prerequisites
 Install IC Software Development KIT (SKD):
 - [Linux](IC_SDK_Linux.md)
 - [MaxOS](IC_SDK_MacOS.md)
