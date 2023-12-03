@@ -55,3 +55,7 @@ For deployment on the Internet Computer's main network:
    ```shell
    dfx deploy --network ic
    ```
+   
+## To Top-up Canisters with cycles follow this [guide](Canisters.md).
+
+1. Create a cycles wallet and fund it, as detailed [here](DFX_Wallet.md).
