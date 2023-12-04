@@ -58,7 +58,7 @@ If you prefer manual setup:
 
 ## Topping up Cycles Wallet
 
-To add more funds to your cycles wallet:
+To top-up your cycles wallet:
 
 1. **Obtain your Wallet Canister ID**:
    ```shell
