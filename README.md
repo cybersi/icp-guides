@@ -35,9 +35,9 @@ Start your development journey with a simple dApp:
 
 - [Hello World Tutorial](Hello_World.md)
 
-### 3. Code Editor
+### 4. Visual Studio Code (Editor)
 
-Install a good code editor. Recommended: [Visual Stuido Code](https://code.visualstudio.com/Download).
+Download and install [Visual Stuido Code](https://code.visualstudio.com/Download).
 
 ## Guides
 
