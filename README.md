@@ -37,7 +37,7 @@ Start your development journey with a simple dApp:
 
 ### 4. Visual Studio Code (Editor)
 
-Download and install [Visual Stuido Code](https://code.visualstudio.com/Download).
+Download and install [Visual Studio Code](https://code.visualstudio.com/Download).
 
 ## Guides
 
