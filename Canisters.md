@@ -56,7 +56,7 @@ To top up your canisters, use DFX in conjunction with the Cycles Wallet:
 1. **Adding NNS Principal**:  
    To allow NNS to manage your canister, run:  
    ```shell
-   dfx dfx canister update-settings --add-controller <canister_id> <principal> 
+   dfx canister update-settings --add-controller <canister_id> <principal> 
    ```
    
    After this, you can view and manage your canister's cycles balance directly from NNS.
