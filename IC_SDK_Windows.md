@@ -40,7 +40,7 @@ sudo apt install curl libunwind-dev -y
 Install Node.js version 21 using the following commands:
 
 ```shell
-curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash - &&\
+curl -fsSL https://deb.nodesource.com/setup_21.x | sudo -E bash - &&\
 sudo apt install -y nodejs
 ```
 
